@@ -21,6 +21,7 @@ function enterRate(rating){
 	}
 }
 
+//creates a new row
 function createRow(){
 	//get table and entered values`
 	var table    = document.getElementById('table');
